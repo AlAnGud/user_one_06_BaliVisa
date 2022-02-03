@@ -41,7 +41,7 @@ body {
 /* 1. block-one ************************************************************/
 
 .block-one {
-	background         : url(./img/elements/yellow_paper01.png) no-repeat;
+	background         : url(/img/elements/yellow_paper01.png) no-repeat;
 	background-position: right 50px;
 	padding-bottom     : 170px;
 }
